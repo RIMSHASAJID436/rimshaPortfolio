@@ -124,7 +124,7 @@ export default function About({ visible }) {
             </div>
             <a
               href="/Rimsha_Sajid.pdf"
-              download="Rimsha-Sajid-CV.pdf"
+              download="Rimsha-Sajid.pdf"
               className="btn-primary"
               style={{ marginTop: 28, display: 'inline-block' }}
               data-cursor-hover
